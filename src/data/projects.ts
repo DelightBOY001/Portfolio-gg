@@ -15,13 +15,13 @@ export type Project = {
 export const projects: Project[] = [
   {
     number: "01",
-    title: "Nexus Bot",
+    title: "Syfex Bot",
     category: "Discord Automation",
-    summary: "A modular Discord bot system for moderation, tickets, welcome flows, role menus, and community analytics.",
+    summary: "A modular Discord bot system for sending messages on discord, tickets, welcome flows, role menus, and community analytics.",
     impact: "Designed for 24/7 server operations with clean slash-command UX.",
     stack: ["Discord.js", "TypeScript", "Node", "MongoDB", "Redis"],
     accent: "cyan",
-    links: { demo: "#contact", github: "https://github.com/karanjii190" },
+    links: { demo: "https://chatbot.syfex.in/", github: "https://github.com/karanjii190" },
   },
   {
     number: "02",
@@ -32,7 +32,7 @@ export const projects: Project[] = [
     stack: ["React", "Tailwind", "WebSocket", "Express", "MySQL"],
     accent: "steel",
     links: { demo: "#contact", github: "https://github.com/karanjii190" },
-  },
+  },  
   {
     number: "03",
     title: "GuildFlow Dashboard",
