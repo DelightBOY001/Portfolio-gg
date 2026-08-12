@@ -54,7 +54,7 @@ export function ContactSection() {
               })}
             </div>
             <div className="mt-6 rounded-2xl border border-circuit-300/15 bg-circuit-300/[0.055] p-4 text-sm leading-7 text-chrome-300">
-              Replace <span className="font-semibold text-white">karanjii190@gmail.com</span>, GitHub, Discord, and resume links with Karan’s real contact details before publishing.
+              Contact on <span className="font-semibold text-white">karanjii190@gmail.com</span>, for more info.
             </div>
           </div>
         </div>
